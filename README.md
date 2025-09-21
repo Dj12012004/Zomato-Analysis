@@ -1,4 +1,7 @@
 # Zomato-Analysis
+
+![Image](https://github.com/user-attachments/assets/17e5a448-2749-4ebf-a6d1-6fc3ea5ad451)
+
 Exploratory Data Analysis of Zomato dataset using Python. Covers restaurant types, ratings, votes, spending patterns, and online vs offline ordering trends. Insights help identify customer preferences, popular cuisines, and opportunities for offers to boost offline engagement.
 
 This repository contains an Exploratory Data Analysis (EDA) on the Zomato dataset, which provides information about restaurants, customer votes, ratings, and modes of ordering in India. The purpose of this project is to understand customer preferences, ordering patterns, and restaurant performance, and to provide insights that can help Zomato and restaurant owners make better business decisions.
