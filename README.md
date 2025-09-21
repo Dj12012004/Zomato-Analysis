@@ -1,4 +1,4 @@
-# Zomato-Analysis
+# Zomato Analysis
 
 ![Image](https://github.com/user-attachments/assets/17e5a448-2749-4ebf-a6d1-6fc3ea5ad451)
 
@@ -10,7 +10,7 @@ As online food delivery continues to grow, understanding how customers interact 
 
 Through this analysis, we hope to provide valuable insights for Zomato, restaurant owners, and food industry stakeholders. The results can be used to improve marketing strategies, design offers for offline customers, and enhance the dining and delivery experience for food lovers.
 
-# Project-Workflow
+# Project Workflow
 
 * Importing libraries (pandas, numpy, matplotlib, seaborn)
 * Loading the dataset into a Jupyter Notebook
